@@ -1,5 +1,5 @@
 # tioejemplo
-soy el clon1
+soy el uno
 
 soy el clon2
 
