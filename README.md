@@ -1,5 +1,5 @@
 # tioejemplo
-loco
+locos
 
 no soy el uno
 
